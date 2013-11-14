@@ -18,7 +18,7 @@
     <item row="0" column="0">
      <widget class="QTabWidget" name="tabWidget">
       <property name="currentIndex">
-       <number>0</number>
+       <number>2</number>
       </property>
       <property name="tabsClosable">
        <bool>false</bool>
@@ -217,6 +217,13 @@
          <widget class="QPushButton" name="pushButton_9">
           <property name="text">
            <string>Indexing</string>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="3">
+         <widget class="QPushButton" name="pushButton_11">
+          <property name="text">
+           <string>Index Sort</string>
           </property>
          </widget>
         </item>
